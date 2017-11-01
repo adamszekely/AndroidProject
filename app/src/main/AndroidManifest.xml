@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Register.Register" />
+        <activity android:name=".Login.Login" />
+        <activity android:name=".VehicleDetails.VehicleDetails" />
+        <activity android:name=".Favourites.Favourites" />
+        <activity android:name=".Search.Search" />
+        <activity android:name=".Loading" />
+        <activity android:name=".Search.AddBrand" />
+        <activity android:name=".Search.AddModel"></activity>
     </application>
 
 </manifest>
